@@ -8,6 +8,7 @@
 Support Behavior Change in Everyday Life](http://www.hcitang.org/uploads/Teaching/2009-consolvo-theory-driven-behaviour-change.pdf)
 - [Designing Ambient Narrative-Based Interfaces to Reflect and Motivate Physical Activity](https://hci.stanford.edu/publications/2020/zuki/zuki_chi2020.pdf)
 - [Learning Machine Learning with Personal Data Helps Stakeholders Ground Advocacy Arguments in Model Mechanics](https://youtu.be/PT1TX1A3N5g)
+- [Improving social skills in children with ASD using a long-term, in-home social robot](https://www.science.org/doi/10.1126/scirobotics.aat7544)
 
 ## Products
 
