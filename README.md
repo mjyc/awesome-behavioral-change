@@ -23,3 +23,5 @@ Support Behavior Change in Everyday Life](http://www.hcitang.org/uploads/Teachin
 - [RubyConf 2018 - Building a Memex (with Ruby!) by Andrew Louis](https://youtu.be/DFWxvQn4cf8)
 - [Calendar. Not to-do lists.](https://deviparikh.substack.com/p/calendar-in-stead-of-to-do-lists-9ada86a512dd)
 - [Iron Blogger SF](https://iron-blogger-sf.com/) - Tying ourselves to the masts
+- [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/) - Andrej Karpathy blog, June 11, 2020
+- [Calorie Counting × Meal Planning ](https://maxwellforbes.com/posts/calorie-counting-meal-planning) - Maxwell Forbes Studio, 26 Nov 2019
