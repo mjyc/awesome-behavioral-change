@@ -22,3 +22,4 @@ Support Behavior Change in Everyday Life](http://www.hcitang.org/uploads/Teachin
 
 - [RubyConf 2018 - Building a Memex (with Ruby!) by Andrew Louis](https://youtu.be/DFWxvQn4cf8)
 - [Calendar. Not to-do lists.](https://deviparikh.substack.com/p/calendar-in-stead-of-to-do-lists-9ada86a512dd)
+- [Iron Blogger SF](https://iron-blogger-sf.com/) - Tying ourselves to the masts
